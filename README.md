@@ -1,4 +1,16 @@
-### Hi there 👋
+# <div align=center> Hi there 👋,this is R0OklE~
+
+###  class `Person` {
+          constructor() {
+           this.name = `"R0OlkE"`;
+           this.traits = ["DESIGN", "DEV"];
+           this.age = new Date().getFullYear() - 2001;
+      }
+###  }
+
+
+
+
 
 ```diff
 - shabu 
@@ -8,24 +20,11 @@
 @@ text in purple (and bold)@@
 ```
 
-1  class Person {
-2      constructor() {
-3        this.name = "Anurag Hazra";
-4        this.traits = ["DESIGN", "DEV"];
-5        this.age = new Date().getFullYear() - 2001;
-6      }
-7  }
-
-
-<p align="center"><a href="https://R0OklE.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
-<div align=center><img width="150" height="150" src="http://www.yishuzi.cn/image.pngfsize=30&font=ygkt.ttf&text=hello%EF%BC%8C%E6%88%91%E6%98%AF%E4%BD%A0%E7%88%B8%E7%88%B8&mirror=no&color=111&vcolor=111&bgcolor=fff&alpha=no&output=png&spacing=4&shadow=no&transparent=no&icon=no&iconic=&top_spacing=5&left_spacing=6&icon_size=48"/></div>
-
-
+<!-- just img 图片 -->
+<img src="https://camo.githubusercontent.com/e2fed45eeddf5c4e8af379d928f6c2da3617a343291af1763c6af7bab347e431/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67" /></div>
 
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
-
 
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
@@ -41,7 +40,7 @@
 
 
 <!--
-**R0OklE/R0OklE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
