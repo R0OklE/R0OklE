@@ -1,4 +1,6 @@
 ### Hi there 👋
+==
+![](https://c-ssl.dtstatic.com/uploads/item/201710/10/20171010201019_xQjky.thumb.400_0.gif)
 
 <!--
 **R0OklE/R0OklE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
