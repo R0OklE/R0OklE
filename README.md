@@ -1,14 +1,29 @@
-# <div align=center> Hi there 👋,this is R0OklE~
+<br>
+<br>
+<br>
+<br>
+<div align=center><img src="https://github.com/R0OklE/pic/blob/main/image%20(2).png?raw=true" /></div>
+<br>
+<br>
+<br>
+<table>
+<tr>
+<td width= "60%">
 
-###  class `Person` {
-          constructor() {
-           this.name = `"R0OlkE"`;
-           this.traits = ["DESIGN", "DEV"];
-           this.age = new Date().getFullYear() - 2001;
-      }
-###  }
+# About me
+- 🔭 I’m currently working on ...
+-- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...66666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
-
+</td>
+<td width= "40%">
+<tr>
+</table>
 
 
 
