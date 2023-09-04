@@ -1,9 +1,12 @@
-<br>
+
 <br>
 <br>
 <br>
 <div align=center><img src="https://github.com/R0OklE/pic/blob/main/image%20(2).png?raw=true" /></div>
 <br>
+<br>
+
+I'm an undergraduated stuent majoring in computer science at Fuzhou University.
 <br>
 <br>
 <table>
