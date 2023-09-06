@@ -1,10 +1,11 @@
 
 <div align=center><img src="https://github.com/R0OklE/pic/blob/main/image%20(2).png?raw=true" /></div>
 <br>
-<div align=center>
+
 I'm an undergraduated stuent majoring in computer science at Fuzhou University.
-</div>
+
 <br>
+
 <table>
 <tr>
 <td width= "60%">
@@ -15,7 +16,7 @@ I'm an undergraduated stuent majoring in computer science at Fuzhou University.
 - ✍ Future plans :Do not plan to seek employment recently 😥 .(Prepare for graduate school  ╮(╯-╰)╭
 - 🛌 Professional skills ：You know, being a rookie of course sleeping 😴...(别骂了，下次一定学
 - 😭 I’m looking for help 😭 ...
-- 💬 Ask me about anything [here](https://github.com/R0OklE/R0OklE/issues) (๑•̀ㅂ•́)و✧
+- 💬 Ask me about anything [here](https://github.com/R0OklE/R0OklE/issues) (๑•̀ㅂ•́)و❤
 
 
 </td>
@@ -30,7 +31,8 @@ Learning 📖<br>
 <tr>
 </table>
 
-<img width="950" src="https://camo.githubusercontent.com/e2fed45eeddf5c4e8af379d928f6c2da3617a343291af1763c6af7bab347e431/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67" /></div>
+<img width="950" height="150"
+src="https://camo.githubusercontent.com/e2fed45eeddf5c4e8af379d928f6c2da3617a343291af1763c6af7bab347e431/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67" /></div>
 
 
 <div align=center><img width="150" height="150" src="https://c-ssl.dtstatic.com/uploads/item/201710/10/20171010201108_kj3WV.thumb.1000_0.gif"/></div>
