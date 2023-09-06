@@ -33,9 +33,18 @@ Learning 📖<br>
 <img width="950" height="150"
 src="https://camo.githubusercontent.com/e2fed45eeddf5c4e8af379d928f6c2da3617a343291af1763c6af7bab347e431/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67" /></div>
 
+## Daily life 😎
 
+  ### Fuzhou🌇
+<div align=center>
+<img height="200" width="200" src="https://github.com/R0OklE/pic/blob/main/IMG_0183.JPG"><img height="200" width="200" src="https://github.com/R0OklE/pic/blob/main/IMG_0262.JPG"><img height="200" width="200" src="https://github.com/R0OklE/pic/blob/main/IMG_0260.JPG">
+</div>
 
-
+ ## 
+### Ganzhou🌼
+<div align=center>
+<img height="200" width="200" src="https://github.com/R0OklE/pic/blob/main/IMG_2739(20230830-211352).JPG"><img height="200" width="200" src="https://github.com/R0OklE/pic/blob/main/IMG_2740(20230830-211352).JPG"><img height="200" width="200" src="https://github.com/R0OklE/pic/blob/main/IMG_2782(20230906-120948).JPG">
+</div>
 
 
 <!--
