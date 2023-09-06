@@ -7,7 +7,7 @@ I'm an undergraduated stuent majoring in computer science at Fuzhou University.<
 <tr>
 <td width= "60%">
 
-### About me👶  
+## About me👶  
 - 🏫 I’m currently studying at [FZU](https://www.fzu.edu.cn/) 🐣.
 - 🌱 Keep learning 💪 ! (As a rookie, I can only use a few programming languages (っ °Д °;)っ
 - ✍ Future plans :Do not plan to seek employment recently 😥 .(Prepare for graduate school  ╮(╯-╰)╭
