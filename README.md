@@ -2,10 +2,8 @@
 <div align=center><img src="https://github.com/R0OklE/pic/blob/main/image%20(2).png?raw=true" /></div>
 <br>
 
-I'm an undergraduated stuent majoring in computer science at Fuzhou University.<div align="right">
-<a href="https://blog.csdn.net/m0_62667322?spm=1010.2135.3001.5421"><img src="https://img-home.csdnimg.cn/images/20201124032511.png" /></a>&emsp;
-</div>
-
+<a href="https://blog.csdn.net/m0_62667322?spm=1010.2135.3001.5421"><img align="right" height="40" width="80" src="https://p1.ssl.qhimg.com/dr/270_500_/t0173b711ab8cede20c.png?size=460x280" /></a>&emsp;
+I'm an undergraduated stuent majoring in computer science at Fuzhou University.
 
 
 
