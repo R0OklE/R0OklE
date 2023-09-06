@@ -3,7 +3,7 @@
 <br>
 
 I'm an undergraduated stuent majoring in computer science at Fuzhou University.<div align="right">
-<a href="https://blog.csdn.net/m0_62667322?spm=1010.2135.3001.5421"><img src="https://github.com/R0OklE/pic/blob/main/logo.ca85d20a32.svg" /></a>&emsp;
+<a href="https://blog.csdn.net/m0_62667322?spm=1010.2135.3001.5421"><img src="https://img-home.csdnimg.cn/images/20201124032511.png" /></a>&emsp;
 </div>
 
 
