@@ -3,36 +3,10 @@
 <br>
 
 I'm an undergraduated stuent majoring in computer science at Fuzhou University.<div align="right">
-<a href="https://box.sunguoqi.com/weixin_mp"><img src="https://github.com/R0OklE/pic/blob/main/logo.ca85d20a32.svg" /></a>&emsp;
+<a href="https://blog.csdn.net/m0_62667322?spm=1010.2135.3001.5421"><img src="https://github.com/R0OklE/pic/blob/main/logo.ca85d20a32.svg" /></a>&emsp;
 </div>
 
-<!DOCTYPE html>    
-<html lang="en">    
-<head>    
-    <meta charset="UTF-8">    
-    <script src="http://libs.baidu.com/jquery/1.9.0/jquery.js"></script>  
-    <script src="https://cdn.jsdelivr.net/clipboard.js/1.5.12/clipboard.min.js"></script>  
- 
-    <title>复制按钮</title>    
-</head>    
-<body>    
-微信号：<span id="target">xyz2018</span>
-<button class="btn" data-clipboard-action="copy" data-clipboard-target="#target" id="copy_btn">    
-    点击复制    
-</button>    
-</body>    
-<script>    
-    $(document).ready(function(){      
-        var clipboard = new Clipboard('#copy_btn');    
-        clipboard.on('success', function(e) {    
-            alert("微信号复制成功",1500);
-            window.location.href='weixin://';
-            e.clearSelection();    
-            console.log(e.clearSelection);    
-        });    
-    });    
-</script>    
-</html>
+
 
 
 <br>
