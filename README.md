@@ -2,7 +2,7 @@
   <img src="https://github.com/R0OklE/pic/blob/main/image%20(2).png?raw=true" />
 </div>
 <br>
-I'm an undergraduated stuent majoring in computer science at Fuzhou University.<br>
+I'm Wang Nan,an undergraduated stuent majoring in computer science at Fuzhou University.<br>
 <table>
 <tr>
 <td width= "60%">
